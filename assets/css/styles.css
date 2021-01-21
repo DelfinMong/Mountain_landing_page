@@ -106,5 +106,6 @@ header nav li {
 @keyframes slidefade {
     100% {
         opacity: 1;
+        margin: 0;
     }
 }
