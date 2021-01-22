@@ -33,16 +33,16 @@ a.btn {
 
 section {
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
     align-items: center;
     padding: 100px 80px;
 }
 
 .grid {
     width: 100%;
-    display: flex;
+    display: flex; 
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: center;  
 }
 
 hr {
