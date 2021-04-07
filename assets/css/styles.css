@@ -72,6 +72,12 @@ section p {
     text-align: center;
 }
 
+@media (media-width: 800px){
+    section {
+        padding: 50px 20px;
+    }
+}
+
 /* Header styles */
 
 header {
