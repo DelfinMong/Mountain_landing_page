@@ -208,6 +208,13 @@ header nav li {
     }
 }
 
+@media (max-width: 800px) {
+    .destinations .grid li.small,
+    .destinations .grid li.large {
+        flex-basis: 100%;
+    }
+}
+
 /*Packages Section*/
 
 .packages .grid li{
