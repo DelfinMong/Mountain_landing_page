@@ -201,6 +201,13 @@ header nav li {
     flex-basis: 70%;
 }
 
+@media (max-width: 1100px) {
+    .destinations .grid li.small,
+    .destinations .grid li.large {
+        flex-basis: 50%;
+    }
+}
+
 /*Packages Section*/
 
 .packages .grid li{
