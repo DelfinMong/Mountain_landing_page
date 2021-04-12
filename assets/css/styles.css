@@ -232,6 +232,13 @@ header nav li {
     margin: 25px 0;
 } 
 
+@media (max-width: 800px) {
+    .packages .grid li {
+        flex-basis: 100%;
+        padding: 20ox;
+    }
+}
+
 /* Testimonials Section*/
 
 .testimonials .quote{
