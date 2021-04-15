@@ -280,6 +280,14 @@ header nav li {
     flex: 1;
 }
 
+@media (max-width: 100px) {
+   .contact form input {
+       flex-basis: 100%;
+       margin: 0 0 20px 0;
+   }
+}
+
+
 /* Footer Section */
 
 footer {
